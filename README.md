@@ -1,4 +1,4 @@
-<h1 align="center">Challenge Literalura</h1>
+<h1 align="center">Challenge: Literalura</h1>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/04cfacd9-3e2c-4185-a43b-56ce86b24c99" alt="Logo" width="100%">
