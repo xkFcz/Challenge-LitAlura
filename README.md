@@ -1,6 +1,6 @@
 # Challenge Literalura
 
-Esta una aplicación sencilla para organizar tus libros. Con ella, podrás llevar el control de tus lecturas y acceder a la información fácilmente. demás, te permite mantener un registro ordenado de los libros que has leído y los que están en tu lista de pendientes.
+Con esta aplicacion podrás llevar el control de tus lecturas y acceder a la información rapidamente, además,  mantener un registro ordenado de los libros que has leído y los que están en tu lista de pendientes.
 
 ## Objetivo del proyecto
 
