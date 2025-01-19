@@ -1,11 +1,11 @@
-<h1 align="center">Challenge: Literalura</h1>
+<h1 align="center">Challenge Alura:Literalura</h1>
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/04cfacd9-3e2c-4185-a43b-56ce86b24c99" alt="Logo" width="100%">
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Estado-En%20Progreso-yellow?style=for-the-badge&logo=github-actions&logoColor=white">
+   <img src="https://img.shields.io/badge/Estado-En%20Desarrollo%20(Finalizado)-green?style=for-the-badge&logo=github-actions&logoColor=white">
    <img src="https://img.shields.io/badge/CI-Habilitado-green?style=for-the-badge&logo=gitlab&logoColor=white">
    <img src="https://img.shields.io/badge/Fecha%20de%20Lanzamiento-2025-green?style=for-the-badge&logo=calendar&logoColor=white">
 </p>
@@ -55,4 +55,5 @@
 ## Licencia
 
 Este proyecto está bajo la licencia **MIT**.
+
 
